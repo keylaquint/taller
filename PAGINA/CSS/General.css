@@ -1,0 +1,75 @@
+body{
+    background-color: blanchedalmond;
+}
+/*para index.html*/
+img{float: left;
+    border: solid;
+    border-color: black;
+    
+}
+h1{color: coral;
+    text-align: center;
+    background-color: black;
+}
+
+h2{color: black;
+    padding-left: 30px;
+} 
+
+body{color:coral;
+}
+
+div button{color:coral;
+    font-size: xx-large;
+    background-color: black;
+    
+    
+}
+ /*para Cflia, Cpareja, CU*/
+#b{ color:coral;
+    background-color: black;
+    
+    
+
+}
+
+/*para Cflia.html*/
+#f1{color:coral;
+    text-align: center;
+    background-color: black;
+}
+#f2{color:black;
+    text-align: center;}
+
+img{float: left;
+    border: solid;
+    border-color: black;}
+
+ 
+ #p{float: left;
+    border: solid;
+    border-color: black;}
+#g{float: right;
+    border: solid;
+    border-color: black;}
+
+/*para Cpareja.html*/
+#n{
+    color: coral;
+    text-align: center;
+    background-color:black;
+}
+#nn{
+    color: black;
+    text-align: center;
+}
+/*para la CU.html*/
+#u{color: coral;
+   text-align: center;
+   background-color:black;
+
+}
+#k{
+    color: black;
+}
+
